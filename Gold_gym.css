@@ -226,7 +226,6 @@ transition: all .3s;
     font-size: 25px;
     margin:10px;
     background-color: black;
-    background-image: url("GymPhoto5.jpg");
     background-size: 500px 600px;
     background-repeat: no-repeat;
 }   
